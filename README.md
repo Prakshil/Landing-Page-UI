@@ -13,13 +13,13 @@ A modern, professional landing page UI for a consulting business, built with HTM
 
 ![UI Preview](./image.png)
 
-> Replace `screenshot.png` with your actual screenshot file name if different.
+
 
 ## Getting Started
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/origin-consulting-landing.git
+   git clone https://github.com/yourusername/-landing-page-UI.git
    cd origin-consulting-landing
    ```
 2. **Open `bt.html` in your browser.**
@@ -27,8 +27,8 @@ A modern, professional landing page UI for a consulting business, built with HTM
 ## File Structure
 - `bt.html` – Main landing page
 - `style.css` – Custom styles
-- `icon.ico` – Logo icon (replace with your own)
-- `screenshot.png` – UI preview image (add your screenshot here)
+
+- `image.png` – UI preview image (add your screenshot here)
 
 ## Customization
 - Change the background image in `style.css` under the `body` selector.
