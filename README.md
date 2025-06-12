@@ -1,4 +1,4 @@
-# Origin Consulting Landing Page UI
+# Landing Page UI
 
 A modern, professional landing page UI for a consulting business, built with HTML, CSS, and Bootstrap 5. The design features a glassmorphism hero section, a sticky blurred navbar, and a full background image for a premium look.
 
